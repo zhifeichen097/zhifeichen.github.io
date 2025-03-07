@@ -43,7 +43,7 @@ Hello! I am currently a PhD student (since 2023) at the AI Thrust, [HKUST(GZ)](h
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/defect_spectrum_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV</div><img src='images/defect_spectrum_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -57,6 +57,23 @@ Shuai Yang$^{\star}$, **ZhiFei Chen**$^{\star}$, Pengguang Chen, Xi Fang, Yixun 
 [**Project Page**](https://envision-research.github.io/Defect_Spectrum/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/transpixar_after.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TransPixeler: Advancing Text-to-Video Generation with Transparency](https://arxiv.org/abs/2501.03006)
+
+Luozhou Wang, Yijun Li$^{\star}$, **Zhifei Chen**, Jui-Hsien Wang, Zhifei Zhang, He Zhang, Zhe Lin, Yingcong Chen$^{\dagger}$
+* $^{\star}$Project Lead  $^{\dagger}$Corresponding Author
+
+[**Paper**](https://arxiv.org/abs/2501.03006) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Github**](https://github.com/wileewang/TransPixar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Page**](https://wileewang.github.io/TransPixar/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/motion_dreamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,20 +90,7 @@ Tianshuo Xu$^{\star}$, **Zhifei Chen**$^{\star}$, Leyi Wu, Hao Lu, Yuying Chen, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/transpixar_after.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[TransPixeler: Advancing Text-to-Video Generation with Transparency](https://arxiv.org/abs/2501.03006)
-
-Luozhou Wang, Yijun Li$^{\star}$, **Zhifei Chen**, Jui-Hsien Wang, Zhifei Zhang, He Zhang, Zhe Lin, Yingcong Chen$^{\dagger}$
-* $^{\star}$Project Lead  $^{\dagger}$Corresponding Author
-
-[**Paper**](https://arxiv.org/abs/2501.03006) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Github**](https://github.com/wileewang/TransPixar) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Project Page**](https://wileewang.github.io/TransPixar/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 
